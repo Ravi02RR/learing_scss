@@ -1,9 +1,9 @@
 
 
 const Contact = () => {
-    return ( 
+    return (
         <div className="contact">
-            <main></main>
+            <main> Avi busy hu baad me bnata hu</main>
         </div>
     )
 }
