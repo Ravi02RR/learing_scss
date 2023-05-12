@@ -9,7 +9,7 @@ import "./styles/Header.scss";
 import "./styles/Home.scss";
 import "../src/styles/footer.scss"
 import "../src/styles/contact.scss"
-import "../src/styles/services.scss"
+
 import "../src/styles/mediaquery.scss"
 import Footer from "./components/Footer";
 
